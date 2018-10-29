@@ -1,0 +1,29 @@
+img {
+    height:300px;
+    border:dotted;
+    border-radius:50px;
+}
+h1 {
+    color:blue;
+}
+h2 {
+    color:lightyellow;
+}
+h3 {
+    color:lightyellow;
+}
+h4 {
+    color:lightyellow;
+}
+h5 {
+    color:lightyellow;
+}
+body {
+    background-color:darkgray;
+    font-family: 'Open Sans', sans-serif;
+}
+li:hover {
+    color:white;
+    cursor:pointer;
+}
+    
