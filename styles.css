@@ -2,6 +2,7 @@ img {
     height:300px;
     border:dotted;
     border-radius:50px;
+    border-color:blue;
 }
 p {
     color:blue;
